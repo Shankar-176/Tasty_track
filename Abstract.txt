@@ -1,0 +1,145 @@
+
+
+WelcomeScreen (WelcomeScreen.dart)
+│
+├── LoginScreen (LoginScreen.dart)
+│
+└── RegScreen (RegScreen.dart)
+
+FirstScreen (FirstScreen.dart)
+│
+└── HomePage (HomePage.dart)
+    │
+    ├── CartPage (CartPage.dart)
+    │
+    └── ProfilePage (ProfilePage.dart)
+
+
+
+
+
+WelcomeScreen:
+
+Entry point of the app.
+Provides buttons to navigate to LoginScreen and RegScreen.
+
+
+LoginScreen:
+
+Allows existing users to sign in with their credentials.
+
+
+Includes options for password recovery.
+
+RegScreen:
+
+Enables new users to create accounts.
+
+
+Collects user information like name, email/phone, and password.
+
+
+FirstScreen:
+
+Acts as an introduction to the app's main features.
+Displays key highlights or promotions.
+
+
+
+HomePage:
+
+
+Central hub of the app.
+
+
+Contains navigation to CartPage and ProfilePage.
+
+
+Displays products or content organized for user interaction.
+
+
+CartPage:
+
+Shows items added to the user's cart.
+
+Provides checkout options.
+
+ProfilePage:
+
+Displays user profile information.
+
+Allows users to manage settings and preferences.
+
+Visual Representation:
+
+This structure outlines how users navigate through the app,
+
+ starting from the WelcomeScreen and progressing through authentication,
+
+ introduction to features, and interaction with personalized content on the HomePage,
+
+ CartPage, and ProfilePage. Each screen serves a distinct purpose in enhancing user engagement and satisfaction within the app.
+
+
+
+
+Explanation:
+------------
+
+
+
+
+
+WelcomeScreen:
+
+The initial screen that welcomes users to the application.
+
+ It provides options for signing in or signing up.
+
+
+LoginScreen:
+
+Allows existing users to enter their credentials (email and password) to access the app.
+
+
+Contains a link to reset password and a button to navigate to the registration screen for new users.
+
+
+RegScreen (Registration Screen):
+
+Enables new users to create an account by providing their full name, email or phone, and password.
+
+
+Includes a link to sign in and proceed to the login screen after registration.
+
+FirstScreen:
+
+Serves as a landing page post-login, showcasing features like fast delivery and online reservation systems for small markets.
+
+Includes a button to explore further into the app.
+
+HomePage:
+
+Central hub displaying various products and services available for purchase.
+
+Contains a side menu for navigation to different sections like profile, favorites, settings, etc.
+
+ProfilePage:
+
+Displays user information such as name, profile picture, contact details, and bio.
+
+Allows users to edit their profile and view their activity on the app.
+
+Summary:
+
+This abstract represents a structured Flutter application designed for a market service, 
+
+facilitating user engagement through seamless navigation from registration to profile management
+ and product exploration. 
+
+Each screen serves a specific purpose in enhancing user experience and interaction within the app ecosystem.
+
+
+
+
+
