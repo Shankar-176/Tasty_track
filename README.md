@@ -76,7 +76,7 @@ Tasty_track-main/
 ---
 
 ## Authors
-Developed by **Expert Flutter Developers** with a passion for mobile app development and user-focused design.
+Developed by **Sankar** with a passion for mobile app development and user-focused design.
 
 ---
 
