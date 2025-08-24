@@ -58,16 +58,7 @@ Tasty_track-main/
 
 ---
 
-## Screenshots & Demo
-Here are some sample screenshots of the Tasty Track app:
 
-| Home Screen | Meal Logging | Dashboard |
-|-------------|--------------|-----------|
-| ![Home](screenshots/home.png) | ![Log](screenshots/log.png) | ![Dashboard](screenshots/dashboard.png) |
-
-*(Add your actual screenshots inside a `screenshots/` folder and update the paths above.)*
-
----
 
 ## Contribution Guidelines
 - Fork the repository
